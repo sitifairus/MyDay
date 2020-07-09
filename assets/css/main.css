@@ -3285,6 +3285,9 @@ input, select, textarea {
 	#intro-bg {
 		
 		background-color: rgba(61,61,61, 0.8);
+		width: 100%;
+		padding-top: 3%;
+		padding-bottom: 2%;
 	}
 	
 	#intro {
