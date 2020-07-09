@@ -3289,8 +3289,6 @@ input, select, textarea {
 	#intro {
 		color: #ffffff;
 		padding: 8rem 4rem 6rem 4rem ;
-		background-color: #3d3d3d;
-		opacity:0.6;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3303,10 +3301,10 @@ input, select, textarea {
 		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
 		flex-direction: column;
-		-moz-justify-content: -moz-flex-end;
-		-webkit-justify-content: -webkit-flex-end;
-		-ms-justify-content: -ms-flex-end;
-		justify-content: flex-end;
+		-moz-justify-content: -moz-flex-center;
+		-webkit-justify-content: -webkit-flex-center;
+		-ms-justify-content: -ms-flex-center;
+		justify-content: flex-center;
 		-moz-transition: opacity 1s ease, -moz-transform 1s ease;
 		-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
